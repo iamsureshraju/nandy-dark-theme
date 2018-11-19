@@ -1,0 +1,20 @@
+{
+    "title": "Nandy Dark",
+    "name": "nandy-dark-theme",
+    "description": "A brackets theme focused on readabiity.",
+    "version": "1.4.3",
+    "author": "Suresh Raju <iamsureshraju@gmail.com>",
+    "homepage": "https://github.com/iamsureshraju/nandy-dark-theme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:iamsureshraju/nandy-dark-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
